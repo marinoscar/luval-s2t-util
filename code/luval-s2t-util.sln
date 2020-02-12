@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luval.s2t.util", "luval.s2t.util\luval.s2t.util.csproj", "{A2A19684-B281-4C97-81E3-B9364B864BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luval.s2t.core", "luval.s2t.core\luval.s2t.core.csproj", "{7450A343-CC79-4865-94C8-19AB23FA1818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A19684-B281-4C97-81E3-B9364B864BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A19684-B281-4C97-81E3-B9364B864BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A19684-B281-4C97-81E3-B9364B864BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A19684-B281-4C97-81E3-B9364B864BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7450A343-CC79-4865-94C8-19AB23FA1818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7450A343-CC79-4865-94C8-19AB23FA1818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7450A343-CC79-4865-94C8-19AB23FA1818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7450A343-CC79-4865-94C8-19AB23FA1818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993A7451-BEF2-4307-9124-2D3F5BCA7B46}
+	EndGlobalSection
+EndGlobal
